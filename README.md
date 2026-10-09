@@ -238,4 +238,4 @@ This repository serves as the official landing page for Argus Monitor. The softw
 **Get the most recent version of Argus Monitor today!**
 
 ---
-**Last updated:** 2026-10-09 10:04:43 UTC
+**Last updated:** 2026-10-09 17:19:34 UTC
